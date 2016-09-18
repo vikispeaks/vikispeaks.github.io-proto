@@ -1,7 +1,3 @@
-# nandomoreira.me jekyll theme
-
-### [Preview](http://nandomoreira.me/nandomoreira-jekyll-theme/)
-
 ## Setup
 
 ### In the terminal run the commands
